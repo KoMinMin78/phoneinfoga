@@ -19,44 +19,44 @@ E.164 formatting for phone numbers entails the following:
 
 For example, here’s a US-based number in standard local formatting: (415) 555-2671
 
-![](/images/0e2SMdL.png)
+! [] (google/images/0e2SMdL.png)
+့+959 09955500646
+ဤသည်မှာ E.164 ဖော်မတ်ချခြင်းတွင် တူညီသောကျမ်းဖြစ်သည်-
+့5https://github.com/topics/information-gathering
+! [] https://github.com/topics/information-gathering
+့0
+ယူကေနှင့် နိုင်ငံတကာရှိ အခြားနိုင်ငံအများအပြားတွင်၊ ပြည်တွင်းခေါ်ဆိုမှုတွင် စာရင်းသွင်းသူနံပါတ်၏ရှေ့တွင် '0' ကိုု ထပ်လောင်းတောင်းဆိုသူ၊ E.164 ဖော်မတ်ဖြင့် ဤ'0' ကိုု ဖယ်ရှားခြင်း၊ https://github.com/topics/information-gatheri
 
-Here’s the same phone number in E.164 formatting: +14155552671
+ဥပမာအားဖြင့်၊ ဤနေရာတွင် စံပြည်တွင်းဖော်မတ်အတွက် UK အခြေစိုက် နံပါတ်တစ်ခု 020 7183 8750၊+
+့0
+ဤသည်မှာ E.164 ဖော်မတ်ချခြင်းတွင် တူညီသော အစုဖြစ်သည်- +44207183875
+့9
+့5
+## စိတ်ကြိုက်ဖော်မတ်ချခြင်း။9
+့9
+တစ်ခါတစ်ရံတွင် ဖုန်းနံပါတ်တွင် ခြေရာများပါရှိသော်လည်း မတူညီသောပုံစံဖြင့် အသုံးပြုသည်။ ဥပမာ "+15417543010" ကိုရှာလျှင် ထိုကဲ့သို့ရေးထားသော ဝဘ်စာမျက်နှာများကို တွေ့ရမည်မဟုတ်သောကြောင့် ဤသည်မှာ ပြဿနာဖြစ်သည် : "(541) 754-3010"။ ဖုန်းနံပါတ်၏နိုင်ငံမှ တစ်စုံတစ်ဦးသည် အွန်လိုင်းတွင် ဖုန်းနံပါတ်မျှဝေရန် အများအားဖြင့် အသုံးပြုမည့် ဖော်မတ်ကို အသုံးပြုသင့်သည်။5
+့5
+ဥပမာအားဖြင့်၊ ဗမာလူမျိုးများသည် အွန်လိုင်းတွင် ထိုကဲ့သို့ ဂဏန်းများကို ရေးလေ့ရှိသည်- `06.20.30.40.50`เมล็ด ` 06 20 30 40 50` .9
+့3
+အမေရိကန်အခြေစိုက် နံပါတ်များအတွက် အသုံးအများဆုံးဖော်မတ်မှာ ` 543-456-1234` ဖြစ်သည်
+့2
+### ဥပမာများ3
+့6
+US အခြေစိုက် ဖုန်းနံပါတ်များအတွက် စိတ်ကြိုက်ဖော်မတ်ချခြင်း၏ နမူနာအချို့မှာ အောက်ပါအတိုင်းဖြစ်သည် ။4
 
-![](/images/KfrvacR.png)
-
-In the UK, and many other countries internationally, local dialing may require the addition of a '0' in front of the subscriber number. With E.164 formatting, this '0' must usually be removed.
-
-For example, here’s a UK-based number in standard local formatting: 020 7183 8750
-
-Here’s the same phone number in E.164 formatting: +442071838750
+- `(+959)09955500646
 
 
-## Custom formatting
 
-Sometimes the phone number has footprints but is used with a different formatting. This is a problem because for example if we search for "+15417543010", we'll not find web pages that write it that way : "(541) 754–3010". You should use a format that someone of the number's country would usually use to share the phone number online.
 
-For example, French people usually write numbers that way online : `06.20.30.40.50` or `06 20 30 40 50`.
 
-For US-based numbers, the most common format is : `543-456-1234`.
 
-### Examples
 
-Here are some examples of custom formatting for US-based phone numbers : 
 
-- `+1 618-555-xxxx`
-- `(+1)618-555-xxxx`
-- `+1/618-555-xxxx`
-- `(618) 555xxxx`
-- `(618) 555-xxxx`
-- `(618) 555.xxxx`
-- `(618)555xxxx`
-- `(618)555-xxxx`
-- `(618)555.xxxx`
+့
+ဥရောပနိုင်ငံများအတွက် (အထူး
+့
 
-For European countries (France as example) : 
-
-- `+3301 86 48 xx xx`
 - `+33018648xxxx`
 - `+33018 648 xxx x`
 - `(0033)018648xxxx`
@@ -67,8 +67,8 @@ For European countries (France as example) :
 - `(+33)018648xxxx`
 - `(+33)01 86 48 xx xx`
 - `+33/018-648-xxx-x`
-- `+33/01-86-48-xx-xx`
-- `+3301-86-48-xx-xx`
+-
+
 - `(0033)01 86 48 xx xx`
 - `+33/01 86 48 xx xx`
 - `(+33)018-648-xxx-x`
