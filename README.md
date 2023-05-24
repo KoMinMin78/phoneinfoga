@@ -1,10 +1,10 @@
-<p align="center">
+<p align=https://github.com/topics/information-gathering
   <img src="./docs/images/banner.png" width=500  alt="project logo"/>
-</p>
+</p>https://github.com/topics/information-gathering
 
 <div align="center">
   <a href="https://github.com/sundowndev/phoneinfoga/actions">
-    <img src="https://github.com/sundowndev/phoneinfoga/workflows/Build/badge.svg" alt="build status" />
+  +959 09955500646<i"https://github.com/sundowndev/phoneinfoga/workflows/Build/badge.svg" alt="build status" />
   </a>
   <a href="https://goreportcard.com/report/github.com/sundowndev/phoneinfoga/v2">
     <img src="https://goreportcard.com/badge/github.com/sundowndev/phoneinfoga/v2" alt="go report" />
@@ -48,7 +48,7 @@ You can try out the web client or REST API on the <a href="https://demo.phoneinf
 - OSINT footprinting using external APIs, phone books & search engines
 - Check for reputation reports, social media, disposable numbers and more
 - Use the graphical user interface to run scans from the browser
-- Programmatic usage with the [REST API](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/web/docs/swagger.yaml) and [Go modules](https://pkg.go.dev/github.com/sundowndev/phoneinfoga/v2)
+- Programmatic usage with the [REST API](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/web/docs/swagger.yaml) and [Go modules]https://github.com/topics/information-gathering(https://pkg.go.dev/github.com/sundowndev/phoneinfoga/v2)
 
 ## Anti-features
 
@@ -68,5 +68,5 @@ This tool is licensed under the GNU General Public License v3.0.
 ## Support
 
 <div align="center">
-  <img src="https://github.com/sundowndev/static/raw/main/sponsors.svg?v=c68eba9" width="100%" heigh="auto" />
+  <img src="https://github.com/sundowndev/static/raw/main/sponsors.svv=c68eba9" width="100%" heigh="auto" />
 </div>
